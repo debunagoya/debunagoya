@@ -7,6 +7,8 @@
   </a>
 </p>
 
+![tenor](https://user-images.githubusercontent.com/51310989/141242111-31079ac7-7dce-43e7-8a60-0dfb1adef2a7.gif)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=m2nagoya&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 [![](https://raw.githubusercontent.com/m2nagoya/m2nagoya/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/m2nagoya/m2nagoya/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
